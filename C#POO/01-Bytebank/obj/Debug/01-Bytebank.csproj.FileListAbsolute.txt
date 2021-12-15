@@ -1,0 +1,8 @@
+C:\Users\hugo.shinde\OneDrive - Escola Superior de Gestão de Negócios LTDA (1)\C#POO\01-Bytebank\bin\Debug\01-Bytebank.exe.config
+C:\Users\hugo.shinde\OneDrive - Escola Superior de Gestão de Negócios LTDA (1)\C#POO\01-Bytebank\bin\Debug\01-Bytebank.exe
+C:\Users\hugo.shinde\OneDrive - Escola Superior de Gestão de Negócios LTDA (1)\C#POO\01-Bytebank\bin\Debug\01-Bytebank.pdb
+C:\Users\hugo.shinde\OneDrive - Escola Superior de Gestão de Negócios LTDA (1)\C#POO\01-Bytebank\obj\Debug\01-Bytebank.csproj.AssemblyReference.cache
+C:\Users\hugo.shinde\OneDrive - Escola Superior de Gestão de Negócios LTDA (1)\C#POO\01-Bytebank\obj\Debug\01-Bytebank.csproj.SuggestedBindingRedirects.cache
+C:\Users\hugo.shinde\OneDrive - Escola Superior de Gestão de Negócios LTDA (1)\C#POO\01-Bytebank\obj\Debug\01-Bytebank.csproj.CoreCompileInputs.cache
+C:\Users\hugo.shinde\OneDrive - Escola Superior de Gestão de Negócios LTDA (1)\C#POO\01-Bytebank\obj\Debug\01-Bytebank.exe
+C:\Users\hugo.shinde\OneDrive - Escola Superior de Gestão de Negócios LTDA (1)\C#POO\01-Bytebank\obj\Debug\01-Bytebank.pdb
